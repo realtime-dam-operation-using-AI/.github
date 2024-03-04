@@ -1,4 +1,19 @@
-## Hi there 👋
+## Welcome to the RealTime AI Operation in Dam effected Watershed 👋
+
+### Currently, my team is focusing on 
+
+🙋‍♀️ 1. Forecasting daily and hourly dam inflow using various Deep Learning approaches in neuralhydrology
+
+🌈 2. Forecaseting daily and hourly dam downstream streaflow and waterlevel using various Deep Learning approaches in neuralhydrology
+
+### The end of this year, we wil complete the RealTime AI Operation of Dam effected Watershed using AI
+
+👩‍💻 3. Application of MC-LSTM to 
+
+🍿 4. Application of Differentiable Modeling to analyze streamflow using Muskingum-Cunge
+
+🧙 5. Data Assimilation for Real-time AI Tool Operation
+
 
 <!--
 
